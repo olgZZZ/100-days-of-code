@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Holger K]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R!D1 Day 1: July 11, Monday 
+Day 1 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Hamburg" on Rust track https://exercism.org/ 
 
 ### R1D2
