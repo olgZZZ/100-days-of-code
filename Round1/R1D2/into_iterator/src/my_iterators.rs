@@ -46,7 +46,8 @@ impl<'a, T: 'a> TreeIter<'a, T> {
     }
 }
 
-// implementation in the BinaryTree type iter method that returns an iterator to traverse the tree
+// implementation in the BinaryTree type iter method that returns an iterator 
+// to traverse the tree
 impl<T> BinaryTree<T> {
     fn iter(&self) -> TreeIter<T> {
         let mut iter = TreeIter { unvisited: Vec::new() };
