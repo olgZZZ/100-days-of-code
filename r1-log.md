@@ -6,6 +6,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D3 Day 3: July 13, Wednesday 
+Day 3 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Counting occurrences of words using a hash map that stores words and counts
+
 ### R1D2 Day 2: July 12, Tuesday 
 Day 2 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Binary tree iterator implementation
