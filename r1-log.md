@@ -5,7 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 ## Log
 
 
-
+### R1D4 Day 4: July 14, Thursday 
+Day 4 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Run Length Encoding" on Rust track exercism.org 
 
 ### R1D3 Day 3: July 13, Wednesday 
 Day 3 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
