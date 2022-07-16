@@ -6,9 +6,13 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D6 Day 6: July 16, Saturday
+Day 5 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Accumulate" on Rust track exercism.org 
+
 ### R1D5 Day 5: July 15, Friday
 Day 5 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
-
+If you try to access parts of a String using indexing syntax in Rust, you’ll get an error. The error and the note tell the story: Rust strings don’t support indexing. 
 
 ### R1D4 Day 4: July 14, Thursday 
 Day 4 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
