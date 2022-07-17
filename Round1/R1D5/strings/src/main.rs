@@ -26,4 +26,18 @@ fn main() {
     let mut winston = "Churchill".to_string();
     winston.drain(2..6);
     assert_eq!(winston, "Chill");
+
+
+    let good_utf8: Vec<u8> = vec![0xe9, 0x8c, 0x86];
+    assert_eq!(String::from_utf8(good_utf8).ok(), Some("錆".to_string()));
+
+    let bad_utf8: Vec<u8> = vec![0x9f, 0xf0, 0xa6, 0x80];
+    let result = String::from_utf8(bad_utf8);
+    assert!(result.is_err());
+
+    // Поскольку String::from_utf8 завершился ошибкой, исходный вектор
+    // не потреблен, и мы можем получить его из значения ошибки.
+    assert_eq!(result.unwrap_err().into_bytes(),
+    vec![0x9f, 0xf0, 0xa6, 0x80]);
+
 }

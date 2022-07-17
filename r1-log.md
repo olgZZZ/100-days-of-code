@@ -6,8 +6,16 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+
+
+
+### R1D7 Day 7: July 17, Sunday
+Day 7 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Crypto Square" on Rust track exercism.org 
+
 ### R1D6 Day 6: July 16, Saturday
-Day 5 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Day 6 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Accumulate" on Rust track exercism.org 
 
 ### R1D5 Day 5: July 15, Friday
