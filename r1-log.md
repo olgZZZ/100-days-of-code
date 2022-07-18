@@ -8,7 +8,9 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D8 Day 8: July 18, Monday
+Day 8 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Largest Series Product" on Rust track exercism.org 
 
 ### R1D7 Day 7: July 17, Sunday
 Day 7 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
