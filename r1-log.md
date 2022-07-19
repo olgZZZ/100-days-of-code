@@ -8,9 +8,14 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D9 Day 9: July 18, Tuesday
+Day 9 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Luhn Trait" on Rust track exercism.org
+
 ### R1D8 Day 8: July 18, Monday
 Day 8 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
-Decided the exercise "Largest Series Product" on Rust track exercism.org 
+Decided the exercise "Largest Series Product" on Rust track exercism.org
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D8/largest-series-product 
 
 ### R1D7 Day 7: July 17, Sunday
 Day 7 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
