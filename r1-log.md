@@ -8,6 +8,13 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+
+
+### R1D14 Day 14: July 24, Sunday
+Day 14 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Paasio" on Rust track exercism.org
+
 ### R1D13 Day 13: July 23, Saturday
 Day 13 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Implemented a program plots the Mandelbrot set and writes it out as a PNG file.
