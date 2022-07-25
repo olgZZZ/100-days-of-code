@@ -11,9 +11,14 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D15 Day 15: July 25, Monday
+Day 15 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Pangram" on Rust track exercism.org
+
 ### R1D14 Day 14: July 24, Sunday
 Day 14 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Paasio" on Rust track exercism.org
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D14
 
 ### R1D13 Day 13: July 23, Saturday
 Day 13 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
