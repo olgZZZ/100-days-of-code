@@ -11,7 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-### R1D16 Day 16: July 26, Monday
+### R1D17 Day 17: July 27, Wednesday
+Day 17 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Simple Linked List" on Rust track exercism.org
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D17
+
+### R1D16 Day 16: July 26, Tuesday
 Day 16 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Scrabble Score" on Rust track exercism.org
 https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D16
