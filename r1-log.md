@@ -9,7 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D18 Day 18: July 28, Thursday
+Day 18 of #100DaysOfCode #100ДнейКода #java
+Coursera - Algorithms, Part I - Interview Questions: Union–Find (ungraded)
 
 ### R1D17 Day 17: July 27, Wednesday
 Day 17 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
