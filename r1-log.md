@@ -11,6 +11,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D20 Day 20: July 30, Saturday
+Day 20 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Bob" on Rust track exercism.org
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D20
+
 ### R1D19 Day 19: July 29, Friday
 Day 19 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Macros" on Rust track exercism.org
