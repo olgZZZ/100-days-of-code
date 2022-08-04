@@ -11,6 +11,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D24 Day 24: August 04, Thursday
+Day 24 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Minesweeper" on Rust track exercism.org
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D24
+
 ### R1D23 Day 23: August 03, Wednesday
 Day 23 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Leap" on Rust track exercism.org
