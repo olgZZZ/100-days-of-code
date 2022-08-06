@@ -11,7 +11,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D26 Day 26: August 06, Saturday
+Day 26 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Ocr numbers" on Rust track exercism.org
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D26
 
 ### R1D25 Day 25: August 05, Friday
 Day 25 of #100DaysOfCode #100ДнейКода #Rustlang #Rust

@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "ocr-numbers"
+version = "0.0.0"
+
+[dependencies]
+lazy_static = "1.4.0"
