@@ -11,6 +11,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D27 Day 27: August 08, Monday
+Day 27 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Program "minigrep" from Rust book
+https://github.com/olgZZZ/minigrep
+
 ### R1D26 Day 26: August 06, Saturday
 Day 26 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Ocr numbers" on Rust track exercism.org
