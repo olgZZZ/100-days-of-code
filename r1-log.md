@@ -11,7 +11,9 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D30 Day 30: August 11, Thursday
+Day 30 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Shunting yard algorithm at Rust
 
 ### R1D29 Day 29: August 10, Wednesday
 Day 29 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
