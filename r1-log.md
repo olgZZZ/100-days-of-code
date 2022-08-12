@@ -11,6 +11,16 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+
+
+
+### R1D31 Day 31: August 12, Friday
+Day 31 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Hamming" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D31
+
+
 ### R1D30 Day 30: August 11, Thursday
 Day 30 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Shunting yard algorithm at Rust
