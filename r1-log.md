@@ -12,7 +12,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D33 Day 33: August 14, Sunday
+Day 33 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Using supertypes that require the functionality of one 
+type within another type
 
 ### R1D32 Day 32: August 13, Saturday
 Day 32 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
