@@ -12,6 +12,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D34 Day 34: August 15, Monday
+Day 34 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Project: Building a Multithreaded Web Server from book
+"The Rust Programming Language"
+
 ### R1D33 Day 33: August 14, Sunday
 Day 33 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Using supertypes that require the functionality of one 
