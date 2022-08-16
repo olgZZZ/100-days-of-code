@@ -12,6 +12,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D35 Day 35: August 16, Tuesday
+Day 35 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+manually implementing fmt::Display
+
 ### R1D34 Day 34: August 15, Monday
 Day 34 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Project: Building a Multithreaded Web Server from book
