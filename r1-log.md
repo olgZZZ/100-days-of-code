@@ -10,6 +10,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D37 Day 37: August 18, Thursday
+Day 37 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Raindrops" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D37
+
 ### R1D36 Day 36: August 17, Wednesday
 Day 36 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Pig Latin" on the Exercism Rust track
