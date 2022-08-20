@@ -10,6 +10,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D39 Day 39: August 20, Saturday
+Day 39 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+rustlings collections section solved
+
 ### R1D38 Day 38: August 19, Friday
 Day 38 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 rustlings structure section solved
