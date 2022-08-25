@@ -11,6 +11,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D42 Day 42: August 25, Thursday
+Day 42 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+rustlings options task solved
+
 ### R1D41 Day 41: August 23, Tuesday
 Day 41 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 rustlings quiz task solved
