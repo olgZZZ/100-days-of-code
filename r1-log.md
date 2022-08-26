@@ -12,9 +12,14 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D43 Day 43: August 26, Friday
+Day 43 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Health Statistics" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D43
+
 ### R1D42 Day 42: August 25, Thursday
 Day 42 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
-rustlings options task solved
+rustlings options tasks solved
 
 ### R1D41 Day 41: August 23, Tuesday
 Day 41 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
