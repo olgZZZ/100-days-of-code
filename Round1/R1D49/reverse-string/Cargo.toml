@@ -1,0 +1,11 @@
+[features]
+grapheme = []
+
+[package]
+edition = "2021"
+name = "reverse_string"
+version = "1.2.0"
+
+[dependencies]
+unicode-segmentation = "1.9.0"
+

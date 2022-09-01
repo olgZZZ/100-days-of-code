@@ -13,6 +13,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D49 Day 49: September 01, Thursday
+Day 49 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Reverse String" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D49
+
 ### R1D48 Day 48: August 31, Wednesday
 Day 48 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "RPN Calculator" on the Exercism Rust track
