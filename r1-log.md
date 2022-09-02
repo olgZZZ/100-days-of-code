@@ -12,7 +12,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D50 Day 50: September 02, Friday
+Day 50 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Space Age" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D50
 
 ### R1D49 Day 49: September 01, Thursday
 Day 49 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
