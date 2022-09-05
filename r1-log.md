@@ -13,6 +13,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D53 Day 53: September 05, Monday
+Day 53 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Matching Brackets" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D53
+
 ### R1D52 Day 52: September 04, Sunday
 Day 52 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Difference Of Squares" on the Exercism Rust track
