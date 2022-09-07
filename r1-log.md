@@ -13,6 +13,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D55 Day 55: September 07, Wednesday
+Day 55 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Acronym" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D55
+
 ### R1D54 Day 54: September 06, Tuesday
 Day 54 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Leap" on the Exercism Rust track
