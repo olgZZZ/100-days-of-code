@@ -12,6 +12,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D57 Day 57: September 09, Friday
+Day 57 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Sublist" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D56
+
 ### R1D56 Day 56: September 08, Thursday
 Day 56 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Role-Playing Game" on the Exercism Rust track
