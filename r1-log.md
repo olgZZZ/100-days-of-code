@@ -13,6 +13,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D61 Day 61: September 12, Tuesday
+Day 61 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Resistor Color" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D61
 
 ### R1D60 Day 60: September 12, Monday
 Day 60 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
