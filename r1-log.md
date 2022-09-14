@@ -13,7 +13,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-### R1D61 Day 61: September 12, Tuesday
+### R1D62 Day 62: September 14, Wednesday
+Day 62 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "A Short Fibonacci Sequence" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D62
+
+### R1D61 Day 61: September 13, Tuesday
 Day 61 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Resistor Color" on the Exercism Rust track
 https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D61

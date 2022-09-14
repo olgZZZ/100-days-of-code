@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [        
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Launch",
+            "program": "${workspaceFolder}/<your program>",
+            "args": ["-arg1", "-arg2"],
+            "cwd": "${workspaceFolder}"            
+        }
+    ]
+  }
