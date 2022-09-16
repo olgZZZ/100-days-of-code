@@ -12,7 +12,16 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-### R1D62 Day 63: September 15, Wednesday
+
+
+
+
+### R1D64 Day 64: September 16, Friday
+Day 64 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Proverb" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D64
+
+### R1D63 Day 63: September 15, Thursday
 Day 63 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Nth Prime" on the Exercism Rust track
 https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D63
