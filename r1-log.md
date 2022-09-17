@@ -16,6 +16,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D65 Day 65: September 17, Saturday
+Day 65 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Sum Of Multiples" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D65
+
 ### R1D64 Day 64: September 16, Friday
 Day 64 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Proverb" on the Exercism Rust track
