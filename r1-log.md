@@ -14,7 +14,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D66 Day 66: September 18, Sunday
+Day 66 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Allergies" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D66
 
 ### R1D65 Day 65: September 17, Saturday
 Day 65 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
