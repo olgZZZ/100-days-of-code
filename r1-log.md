@@ -12,7 +12,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D67 Day 67: September 19, Monday
+Day 67 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Dot Dsl" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D67
 
 ### R1D66 Day 66: September 18, Sunday
 Day 66 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
