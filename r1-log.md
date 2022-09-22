@@ -15,6 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D70 Day 70: September 22, Thursday
+Day 70 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Nucleotide Count" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D70
+
 ### R1D69 Day 69: September 21, Wednesday
 Day 69 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Isbn Verifier" on the Exercism Rust track
