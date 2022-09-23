@@ -13,7 +13,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D71 Day 71: September 23, Friday
+Day 71 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Palindrome Products" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D71
 
 ### R1D70 Day 70: September 22, Thursday
 Day 70 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
