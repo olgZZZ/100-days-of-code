@@ -14,6 +14,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D73 Day 73: September 25, Sunday
+Day 73 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Rna Transcription" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D73
+
 ### R1D72 Day 72: September 24, Saturday
 Day 72 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Pascals Triangle" on the Exercism Rust track
