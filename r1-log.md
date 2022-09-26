@@ -12,7 +12,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D74 Day 74: September 26, Monday
+Day 74 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Saddle Points" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D74
 
 ### R1D73 Day 73: September 25, Sunday
 Day 73 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
