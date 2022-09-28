@@ -15,6 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D76 Day 76: September 28, Wednesday
+Day 76 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Two Bucket" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D76
+
 ### R1D75 Day 75: September 27, Tuesday
 Day 75 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Tournament" on the Exercism Rust track
