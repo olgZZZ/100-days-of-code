@@ -14,6 +14,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D79 Day 79: October 01, Saturday
+Day 79 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "React" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D79
+
 ### R1D78 Day 78: September 30, Friday
 Day 78 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Protein Translation" on the Exercism Rust track
