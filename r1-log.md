@@ -15,6 +15,12 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+
+### R1D81 Day 81: October 03, Monday
+Day 81 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Rectangles" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D81
+
 ### R1D80 Day 80: October 02, Sunday
 Day 80 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Custom Set" on the Exercism Rust track
