@@ -16,6 +16,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D82 Day 82: October 04, Tuesday
+Day 82 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Diffie Hellman" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D82
+
 ### R1D81 Day 81: October 03, Monday
 Day 81 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Rectangles" on the Exercism Rust track
