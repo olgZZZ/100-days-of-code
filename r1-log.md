@@ -15,6 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D85 Day 85: October 07, Friday
+Day 85 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Luhn From" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D85
+
 ### R1D84 Day 84: October 06, Thursday
 Day 84 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Diamond" on the Exercism Rust track
