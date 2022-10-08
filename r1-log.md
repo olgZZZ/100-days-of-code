@@ -15,6 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D86 Day 86: October 08, Saturday
+Day 86 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Simple Cipher" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D86
+
 ### R1D85 Day 85: October 07, Friday
 Day 85 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Luhn From" on the Exercism Rust track
