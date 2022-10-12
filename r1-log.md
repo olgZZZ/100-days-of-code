@@ -12,6 +12,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D90 Day 90: October 12, Wednesday
+Day 90 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Scale Generator" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D90
+
 ### R1D89 Day 89: October 11, Tuesday
 Day 89 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Decimal" on the Exercism Rust track
