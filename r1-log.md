@@ -15,6 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D92 Day 92: October 14, Friday
+Day 92 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Grep" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D92
+
 ### R1D91 Day 91: October 13, Thursday
 Day 91 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Dominoes" on the Exercism Rust track
