@@ -15,6 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D95 Day 95: October 17, Monday
+Day 95 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Rotational Cipher" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D95
+
 ### R1D94 Day 94: October 16, Sunday
 Day 94 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Word Count" on the Exercism Rust track
