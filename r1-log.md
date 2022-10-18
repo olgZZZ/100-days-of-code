@@ -13,7 +13,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D96 Day 96: October 18, Tuesday
+Day 96 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Rail Fence Cipher" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D96
 
 ### R1D95 Day 95: October 17, Monday
 Day 95 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
