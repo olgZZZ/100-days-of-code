@@ -13,6 +13,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D98 Day 98: October 20, Thursday
+Day 98 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Collatz Conjecture" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D98
+
 ### R1D97 Day 97: October 19, Wednesday
 Day 97 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Affine Cipher" on the Exercism Rust track
