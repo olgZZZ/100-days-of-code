@@ -13,6 +13,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D99 Day 99: October 21, Friday
+Day 99 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Circular Buffer" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D99
+
 ### R1D98 Day 98: October 20, Thursday
 Day 98 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Collatz Conjecture" on the Exercism Rust track
