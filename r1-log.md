@@ -13,6 +13,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D100 Day 100: October 22, Saturday
+Day 100 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Wordy" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D100
+
 ### R1D99 Day 99: October 21, Friday
 Day 99 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Circular Buffer" on the Exercism Rust track
@@ -478,19 +483,19 @@ Decided the exercise "Accumulate" on Rust track exercism.org
 Day 5 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 If you try to access parts of a String using indexing syntax in Rust, you’ll get an error. The error and the note tell the story: Rust strings don’t support indexing. 
 
-### R1D4 Day 4: July 14, Thursday 
+### R1D4 Day 4: July 14, Thursday
 Day 4 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Run Length Encoding" on Rust track exercism.org 
 
-### R1D3 Day 3: July 13, Wednesday 
+### R1D3 Day 3: July 13, Wednesday
 Day 3 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Counting occurrences of words using a hash map that stores words and counts
 
-### R1D2 Day 2: July 12, Tuesday 
+### R1D2 Day 2: July 12, Tuesday
 Day 2 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Binary tree iterator implementation
 
-### R1D1 Day 1: July 11, Monday 
+### R1D1 Day 1: July 11, Monday
 Day 1 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Hamburg" on Rust track https://exercism.org/ 
 
