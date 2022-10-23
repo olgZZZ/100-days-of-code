@@ -11,7 +11,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D101 Day 101: October 23, Sunday
+Day 101 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Robot Name" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D101
 
 ### R1D100 Day 100: October 22, Saturday
 Day 100 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
