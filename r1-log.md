@@ -11,10 +11,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-### R1D102 Day 102: October 24, Monday
-Day 102 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
-Decided the exercise "Variable Length Quantity" on the Exercism Rust track
-https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D102
+### R1D103 Day 103: October 25, Tuesday
+Day 103 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Triangle" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D103
 
 ### R1D101 Day 101: October 23, Sunday
 Day 101 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
