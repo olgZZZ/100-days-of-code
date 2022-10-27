@@ -6,7 +6,13 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-### R1D104 Day 104: October 25, Wednesday
+
+### R1D105 Day 105: October 27, Thursday
+Day 105 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Sieve" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D105
+
+### R1D104 Day 104: October 26, Wednesday
 Day 104 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Spiral Matrix" on the Exercism Rust track
 https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D104
