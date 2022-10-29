@@ -8,7 +8,10 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
-
+### R1D107 Day 107: October 29, Saturday
+Day 107 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Queen Attack" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D106
 
 ### R1D106 Day 106: October 28, Friday
 Day 106 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
