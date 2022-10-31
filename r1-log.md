@@ -9,6 +9,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D109 Day 109: October 31, Monday
+Day 109 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "PaaS I/O" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D109
+
 ### R1D108 Day 108: October 30, Sunday
 Day 108 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Perfect Numbers" on the Exercism Rust track
