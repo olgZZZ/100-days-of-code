@@ -9,6 +9,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D110 Day 110: November 01, Tuesday
+Day 110 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Isogram" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D110
+
 ### R1D109 Day 109: October 31, Monday
 Day 109 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "PaaS I/O" on the Exercism Rust track
