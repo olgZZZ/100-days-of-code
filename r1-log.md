@@ -9,6 +9,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D111 Day 111: November 02, Wednesday
+Day 111 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "ETL" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D111
+
 ### R1D110 Day 110: November 01, Tuesday
 Day 110 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Isogram" on the Exercism Rust track
