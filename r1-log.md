@@ -9,6 +9,11 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D113 Day 113: November 04, Friday
+Day 113 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Alphametics" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D113
+
 ### R1D112 Day 112: November 03, Thursday
 Day 112 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
 Decided the exercise "Bowling" on the Exercism Rust track
