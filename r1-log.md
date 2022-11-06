@@ -7,7 +7,15 @@ The log of my #100DaysOfCode challenge. Started on [July 11, Monday, 2022].
 
 
 
+### R1D115 Day 115: November 06, Sunday
+Day 115 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "Prime Factors" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D115
 
+### R1D114 Day 114: November 05, Saturday
+Day 114 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
+Decided the exercise "All Your Base" on the Exercism Rust track
+https://github.com/olgZZZ/100-days-of-code/tree/master/Round1/R1D114
 
 ### R1D113 Day 113: November 04, Friday
 Day 113 of #100DaysOfCode #100ДнейКода #Rustlang #Rust
